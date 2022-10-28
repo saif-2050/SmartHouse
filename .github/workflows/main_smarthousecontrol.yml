@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'SmartHouseControl'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B99A2CAACFF414DB5FE10BC1B9E336F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4FC803B63294C7AB7E11DF66A4070FB }}
           package: .
